@@ -1,0 +1,34 @@
+.navgar{background: firebrick ! important;}
+.text-black{text-decoration: none;}
+.carousel-caption{width: 100%; background: rgba(69, 67, 67, 0.7); right: 0px ! important; left: 0px ! important;}
+.a{text-decoration: none;}
+
+#creme{width: 500px;}
+
+.imag-fluid{width: 100% ! important;}
+
+.contenido{background-color: #282A2D;}
+
+.content{background-color: #202124; padding-left: 0px ! important; padding-right: 0px ! important;}
+
+.gama{height: 60vh;}
+.imeg-fluid{width: 100%;}
+
+.accordion-button::after{margin: auto;}
+
+.camba{width: 50%; background-color: aqua; position: absolute; bottom: 0px;}
+@media (max-width: 575.98px) {
+.gama{min-height: 80vh;}
+}
+
+@media (max-width: 991.98px) { 
+.gama{height: 25vh;}
+}
+
+.imadan{width: 120px;}
+
+/*
+.bloque{position: absolute;}
+.modulo{position: absolute;}*/
+
+.cad{border: 0px ! important;}
